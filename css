@@ -1,1 +1,46 @@
-
+body{
+    display: flex;
+    height: 100vh;
+    font-family: 'Trebuchet MS';
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    background-color: #604D53;
+    color: #FDFDFF;
+    height: 15vh;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+article{
+    display: flex;
+    flex-direction: column;
+    background-color: #D5C5C8;
+    height: 30vh;
+}
+blockquote{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #DB7F8E;
+    margin: 0;
+    height: 15vh;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    background-color: #D5C5C8;
+    height: 30vh;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #604D53;
+    color:#FDFDFF;
+    height: 10vh;
+}
