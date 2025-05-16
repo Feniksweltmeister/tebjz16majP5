@@ -1,1 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+<header>
+    <h1>Page</h1>
+</header>
+<aside class="left-panel">
+<main>
+<article>
+    <h2>Article</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum a aliquid tenetur sit. Facilis, vero perspiciatis? Veniam corrupti consequuntur architecto dolorum molestiae nisi. Sed quam maiores at? Maxime, consequatur eos.</p>
+</article>
+<blockquote>"xpp"</blockquote>
+<section>
+<h2>Article</h2>
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perferendis doloribus autem consequuntur? Ipsum consectetur magnam ipsa quo, sapiente placeat eveniet a sequi, tempore in quisquam voluptatem, rerum eos officia enim.</p>
+</section>
+<footer>Footer</footer>
+</aside>
+</main>
+<aside class="right-panel">
+<nav>
+    <a href="https://github.com/Feniksweltmeister">Link 1</a>
+    <a href="https://github.com/Feniksweltmeister">Link 2</a>
+    <a href="https://github.com/Feniksweltmeister">Link 3</a>
+</nav>
+</aside>
 
+
+
+
+
+
+</body>
+</html>
