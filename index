@@ -10,27 +10,33 @@
 <header>
     <h1>Page</h1>
 </header>
-<aside class="left-panel">
 <main>
+<aside class="left-panel">
 <article>
     <h2>Article</h2>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum a aliquid tenetur sit. Facilis, vero perspiciatis? Veniam corrupti consequuntur architecto dolorum molestiae nisi. Sed quam maiores at? Maxime, consequatur eos.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus expedita fugit minus modi voluptas eos ratione non facilis, rerum neque at nulla deleniti provident nam ut delectus in ipsa, perferendis doloremque officiis, quas sed iure?</p>
 </article>
 <blockquote>"xpp"</blockquote>
 <section>
 <h2>Article</h2>
-<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perferendis doloribus autem consequuntur? Ipsum consectetur magnam ipsa quo, sapiente placeat eveniet a sequi, tempore in quisquam voluptatem, rerum eos officia enim.</p>
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta minus modi ratione obcaecati, iusto nobis expedita perferendis fuga dolor maiores earum quas harum quia, voluptatum repudiandae facilis sed dolorem hic nostrum unde fugiat praesentium optio!</p>
 </section>
 <footer>Footer</footer>
 </aside>
-</main>
+
 <aside class="right-panel">
 <nav>
     <a href="https://github.com/Feniksweltmeister">Link 1</a>
     <a href="https://github.com/Feniksweltmeister">Link 2</a>
     <a href="https://github.com/Feniksweltmeister">Link 3</a>
 </nav>
+
+
+
+
+</main>
 </aside>
+
 
 
 
