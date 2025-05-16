@@ -1,46 +1,47 @@
-body{
-    display: flex;
-    height: 100vh;
-    font-family: 'Trebuchet MS';
-    margin: 0;
-    padding: 0;
-}
-header{
-    display: flex;
-    background-color: #604D53;
-    color: #FDFDFF;
-    height: 15vh;
-}
-main{
-    display: flex;
-    flex-direction: column;
-    width: 70%;
-}
-article{
-    display: flex;
-    flex-direction: column;
-    background-color: #D5C5C8;
-    height: 30vh;
-}
-blockquote{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #DB7F8E;
-    margin: 0;
-    height: 15vh;
-}
-section{
-    display: flex;
-    flex-direction: column;
-    background-color: #D5C5C8;
-    height: 30vh;
-}
-footer{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #604D53;
-    color:#FDFDFF;
-    height: 10vh;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+<header>
+    <h1>Page</h1>
+</header>
+<main>
+<aside class="left-panel">
+<article>
+    <h2>Article</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus expedita fugit minus modi voluptas eos ratione non facilis, rerum neque at nulla deleniti provident nam ut delectus in ipsa, perferendis doloremque officiis, quas sed iure?</p>
+</article>
+<blockquote>"xpp"</blockquote>
+<section>
+<h2>Article</h2>
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta minus modi ratione obcaecati, iusto nobis expedita perferendis fuga dolor maiores earum quas harum quia, voluptatum repudiandae facilis sed dolorem hic nostrum unde fugiat praesentium optio!</p>
+</section>
+<footer>Footer</footer>
+</aside>
+
+<aside class="right-panel">
+<nav>
+    <a href="https://github.com/Feniksweltmeister">Link 1</a>
+    <a href="https://github.com/Feniksweltmeister">Link 2</a>
+    <a href="https://github.com/Feniksweltmeister">Link 3</a>
+</nav>
+
+
+
+
+</main>
+</aside>
+
+
+
+
+
+
+
+</body>
+</html>
