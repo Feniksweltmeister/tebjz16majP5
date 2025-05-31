@@ -7,41 +7,46 @@
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
-<header>
-    <h1>Page</h1>
-</header>
-<main>
-<aside class="left-panel">
-<article>
-    <h2>Article</h2>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus expedita fugit minus modi voluptas eos ratione non facilis, rerum neque at nulla deleniti provident nam ut delectus in ipsa, perferendis doloremque officiis, quas sed iure?</p>
-</article>
-<blockquote>"xpp"</blockquote>
-<section>
-<h2>Article</h2>
-<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta minus modi ratione obcaecati, iusto nobis expedita perferendis fuga dolor maiores earum quas harum quia, voluptatum repudiandae facilis sed dolorem hic nostrum unde fugiat praesentium optio!</p>
-</section>
-<footer>Footer</footer>
-</aside>
-
-<aside class="right-panel">
-<nav>
-    <a href="https://github.com/Feniksweltmeister">Link 1</a>
-    <a href="https://github.com/Feniksweltmeister">Link 2</a>
-    <a href="https://github.com/Feniksweltmeister">Link 3</a>
-</nav>
-
-
-
-
+ <header>
+ <h1>Page</h1>
+ </header>
+ <main>
+    <aside class="left-panel">
+        <section class="article1">
+        <h2>Article</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste deleniti aperiam consequuntur ea laboriosam id, totam, quos blanditiis eveniet nihil itaque? Magni sapiente explicabo dolorum quo voluptas quibusdam, amet ab. Repellat sapiente placeat qui possimus expedita voluptatum dolor nulla nostrum, animi natus nisi dolorum magnam officia blanditiis fuga cupiditate dignissimos dolores provident sequi aliquam reprehenderit iusto iure architecto? Earum atque, ea voluptate esse eos accusamus. Quae adipisci veniam dolorum tempore eligendi culpa amet quam officiis facere sapiente. Voluptatum nemo blanditiis fugiat, animi, officiis molestiae dicta necessitatibus consequuntur vitae, optio sed dolorem! Commodi labore dolores sit autem, consectetur amet corporis ad?</p>
+        </section>
+    <section class="xpp">
+    <h1>,,xpp"</h1>
+    </section>
+        <section class="article2">
+         <h2>Article</h2>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure a nulla quod molestias, quisquam culpa provident totam eum tempora maiores. Esse, numquam nesciunt. Beatae itaque incidunt ab soluta adipisci praesentium, mollitia aspernatur culpa delectus quisquam! Harum adipisci sapiente ipsa beatae sit recusandae incidunt totam odit maiores, ullam accusamus nobis? Laborum fuga neque et deleniti illo, magni quas minima dignissimos tenetur quia autem expedita perspiciatis ipsum nihil ullam quasi repudiandae. Aliquid, minima harum nihil eos voluptate, ex accusamus deserunt nesciunt reprehenderit cum necessitatibus, sapiente mollitia eveniet dicta blanditiis? Delectus non eveniet cum reiciendis maiores perspiciatis saepe tempore rerum, accusantium voluptas distinctio.</p>
+        </section>
+    <section class="footer">
+        Footer
+    </section>
+    </aside>
+    <aside class="right-panel">
+        <section class="nawigacja">
+            <nav>
+                <a href="https://github.com/teb-jz/webdev/tree/main/p5">Link #1</a>
+                <a href="https://github.com/teb-jz/webdev/tree/main/p5">Link #2</a>
+                <a href="https://github.com/teb-jz/webdev/tree/main/p5">Link #3</a>
+            </nav>
+        </section>
+        <section class="kwadraty">
+        <section class="kwadratylewo">
+            <div id="kwadrat11">1</div>
+            <div id="kwadrat12">2</div>
+        </section>
+        <section class="kwadratyprawo">
+            <div id="kwadrat21">1</div>
+            <div id="kwadrat22">2</div>
+        </section>
+        </section>
+    </aside>
 </main>
-</aside>
-
-
-
-
-
-
 
 </body>
 </html>
